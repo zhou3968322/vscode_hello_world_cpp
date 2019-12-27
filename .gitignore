@@ -1,0 +1,6 @@
+.history
+.vscode
+.pyc
+.so
+.o
+build
